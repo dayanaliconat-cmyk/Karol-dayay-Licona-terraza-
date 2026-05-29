@@ -1,0 +1,5 @@
+﻿Nombre,Cantidad,Componente
+"U2",1," Arduino Uno R3"
+"U3",1," Sensor de temperatura [TMP36]"
+"Meter1",1,"Amperaje Multímetro"
+"U1",1,"Basado en PCF8574, 32 (0x20) LCD 16 x 2 (I2C)"
